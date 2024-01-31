@@ -1,0 +1,18 @@
+
+  .book{
+    margin-left: 800px;
+    background-color: #3E97FF;
+    color:white;
+    padding:11px;
+    justify-content: center;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-bottom: 10px;
+    border-radius: 2px;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+  }
+  .book:hover{
+    background-color: #101155;
+    color: white;
+    cursor: pointer;
+  }
